@@ -9,7 +9,7 @@ const Navbar2 = () => {
     <div className='bg-cyan-800'>
       <button
       onClick={()=>{
-        navigate('https://umesh4ever.github.io/React-Router-DOM/')
+        navigate('/')
       }}
       className='font-medium bg-amber-500 px-5 py-2 rounded m-2 cursor-pointer active:scale-95'>Back to HOME</button>
 
