@@ -21,7 +21,7 @@ const App = () => {
       <Navbar2/>
 
       <Routes>
-        <Route path='https://umesh4ever.github.io/React-Router-DOM/' element={<Home/>}/>
+        <Route path='https://umesh4ever.github.io/' element={<Home/>}/>
         <Route path='/about' element={<About/>}/>
         <Route path='/contact' element={<Contact/>}/>
         <Route path='/courses' element={<Courses/>}/>
