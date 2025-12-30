@@ -6,6 +6,6 @@ Implemented it and made a basic routing system for understanding of every concep
 **deployed link** - [React-Router-DOM](https://umesh4ever.github.io/React-Router-DOM/)
 
 ## Technologies used
--react with vite
--react router dom
--tailwind css
+- React with vite
+- React router dom
+- Tailwind css
